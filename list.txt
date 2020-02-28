@@ -1,7 +1,7 @@
 ! Title: NoMoreMIAD
 ! Description: NoMoreMIAD
 ! Version: 200229.000.100
-! Homepage: https://gitee.com/anye1998/Adguard-List-of-personal-rules
+! Homepage: https://raw.githubusercontent.com/jimmyk1m/NoMoreMIAD/master/list.txt
 !---------------------------------------------------------------------
 ||ad1.xiaomi.com/
 ||alog.umeng.com/
